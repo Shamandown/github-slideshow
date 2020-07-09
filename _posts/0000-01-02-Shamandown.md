@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Whaddaya know, it's a slide with no info.
 Use the left arrow to go back!
